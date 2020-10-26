@@ -11,9 +11,11 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "compression": "^1.7.4",
         "express": "^4.16.4",
         "glob": "^7.1.4",
-        "mongoose": "^5.5.8"
+        "mongoose": "^5.5.8",
+        "morgan": "^1.10.0"
     },
     "devDependencies": {
         "webpack": "^4.32.0",
