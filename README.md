@@ -2,7 +2,7 @@
 
 As budget tracker app. When you need to keep updated with your latest budgeting this app is here to help online and offline
 
-![alt text](Screen Shot 2020-10-26 at 7.15.37 PM.png)
+![alt text](https://github.com/LouieLover/BudgetTracker/blob/master/image.jpg?raw=true)
 
 ## Installation
 
