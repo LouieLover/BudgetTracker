@@ -1,24 +1,39 @@
-# BudgetTracker
+# Budget Tracker
 
-As budget tracker app. When you need to keep updated with your latest budgeting this app is here to help online and offline
+## Description 
 
-(https://github.com/LouieLover/BudgetTracker/issues/2#issue-729978131)
-
-## Installation
-
-Use the npm package manager. Node.js Webpack
+Keep up with your personal budget with this budget tracker App
 
 
-## Usage
+## Table of Contents
 
-```javascript
-import budget tracker
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
-```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Usage 
 
-Please make sure to update tests as appropriate.
+* [Budget Tracker]https://github.com/LouieLover/BudgetTracker)
+
+Enter the name of your transaction as well as the price and select either to add or subtract from your budget. The App is also give the ability to keep track of your budget offline with the help of service-worker.js
+
+![Example Application](https://raw.githubusercontent.com/LouieLover/BudgetTracker/a00e887d5a554c26d12a22a157d6bd77f3b40222/Screen%20Shot%202020-10-26%20at%207.15.37%20PM.png)
+
+
+## Credits
+
+* [Heroku](https://mighty-woodland-16812.herokuapp.com/)
+
 
 ## License
+
+MIT License
+
+Copyright (c) 2020 Doc 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
